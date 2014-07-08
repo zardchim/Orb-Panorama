@@ -1,0 +1,15 @@
+﻿生成启动时间为 2014/6/30 15:34:49。
+     1>项目“C:\Users\ghin.zhang\Desktop\Orb Panorama\OrbPano\OrbPano\OrbPano.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\OrbPano.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ghin.zhang\Desktop\Orb Panorama\OrbPano\Release\OrbPano.exe" /NOLOGO /LIBPATH:..\lib\opencv\debug kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\OrbPano.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ghin.zhang\Desktop\Orb Panorama\OrbPano\Release\OrbPano.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ghin.zhang\Desktop\Orb Panorama\OrbPano\Release\OrbPano.lib" /MACHINE:X86 Release\main.obj
+     1>main.obj : error LNK2001: 无法解析的外部符号 "int __cdecl cv::waitKey(int)" (?waitKey@cv@@YAHH@Z)
+     1>C:\Users\ghin.zhang\Desktop\Orb Panorama\OrbPano\Release\OrbPano.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“C:\Users\ghin.zhang\Desktop\Orb Panorama\OrbPano\OrbPano\OrbPano.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.21
